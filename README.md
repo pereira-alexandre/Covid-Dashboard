@@ -6,13 +6,13 @@
 - [API Casos Mundial](https://covid19-brazil-api.now.sh/api/report/v1/countries)
 
 ## Casos Mundial
-<img src="img\BI01gif.gif" width="1080" height="720"/>
+<img src="img\BI01gif.gif" width="1080" height="500"/>
 
 ## Casos Brasil
-<img src="img\BI02gif.gif" width="1080" height="720"/>
+<img src="img\BI02gif.gif" width="1080" height="500"/>
 
 ## Histórico Brasil
-<img src="img\BI03gif.gif" width="1080" height="720"/>
+<img src="img\BI03gif.gif" width="1080" height="500"/>
 
 
 - **Parte Técnica do Projeto:  to do ...**
