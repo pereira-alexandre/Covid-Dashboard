@@ -7,6 +7,10 @@
 - [API Casos Mundial](https://covid19-brazil-api.now.sh/api/report/v1/countries)
 - [Site com dados de Inflação Mundial](https://www.imf.org/external/datamapper/PCPIPCH@WEO/OEMDC/ADVEC/WEOWORLD)
 
+## Usando a Ferramenta
+<img src="img\Resume.gif" width="720" height="400"/>
+
+
 ## Casos: Mundial
 <img src="img\First Screen.png" width="1080" height="500"/>
 
